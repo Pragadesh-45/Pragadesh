@@ -1,0 +1,2 @@
+import webbrowser
+webbrowser.open('https://bit.ly/39L7OyG')
